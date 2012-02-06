@@ -2,8 +2,9 @@
     "name": "flattr",
     "license": "The MIT License (http://www.opensource.org/licenses/mit-license.php)",
     "author": "Flattr (https://flattr.com/)", 
-    "version": "0.1",
+    "version": "1.0",
     "fullName": "Flattr",
     "id": "firefoxaddon@flattr.com",
-    "description": "Easily make flattr donations to the things you like on the web."
+    "description": "Easily make flattr donations to the things you like on the web.",
+    "dependencies": ["urlbarbutton", "addon-kit"]
 }

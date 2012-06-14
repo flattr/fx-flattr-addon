@@ -6,5 +6,5 @@
     "fullName": "Flattr",
     "id": "firefoxaddon@flattr.com",
     "description": "Easily make flattr donations to the things you like on the web.",
-    "dependencies": ["urlbarbutton", "showforpage", "addon-kit", "api-utils"]
+    "dependencies": ["urlbarbutton", "showforpage", "addon-kit"]
 }

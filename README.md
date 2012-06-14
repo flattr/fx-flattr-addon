@@ -16,3 +16,13 @@ Once you have added the dependency you can [download this add-on](https://github
 ## Learn more
 
 * [Flattr.com](https://flattr.com/)
+
+## Changelog
+
+### 1.1.0
+
+* Shows flattr count in icon.
+* New icon with the lovely Flattr colors.
+* Checks link-tags for data that can identify a flattrable page. Both rel-payment and rel-canonical links are checked.
+* Checks for flattr-data after a page has been loaded - if a useful link-tag is added to a site not yet detected as flattrable then that can identify it as flattrable.
+* Shows rel-payment data in privacy mode as it requires no API-lookups.

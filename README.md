@@ -9,15 +9,19 @@ The add-on asks the [Flattr API](http://developers.flattr.net/api/) whether a pa
 
 This add-on uses [Mozilla's Add-on SDK](https://addons.mozilla.org/developers/builder). Download that and [install it](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/installation.html) accordingly.
 
-When you have installed the Add-on SDK you need to add the dependencies for this add-on. We need the [Urlbar Button module](https://github.com/voxpelli/moz-urlbarbutton) and the [ShowForPage module](https://github.com/voxpelli/moz-showforpage) so download those and add it to the packages/-folder within the Add-on SDK - this is the way you add [third party modules](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/adding-menus.html) that an add-on uses.
+When you have installed the Add-on SDK you need to add the dependencies for this add-on. We need the [Urlbar Button module](https://github.com/voxpelli/moz-urlbarbutton) and the [ShowForPage module](https://github.com/voxpelli/moz-showforpage) so download those and add it to a packages/-folder within this addon - this is the way you add [third party modules](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/adding-menus.html) that an add-on uses.
 
-Once you have added the dependency you can [download this add-on](https://github.com/voxpelli/moz-showforpage/zipball/master) itself and run it and build it the way you like. Check the Add-on SDK [Getting Started tutorial](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/getting-started-with-cfx.html) to find out how that is done.
+Once you have added the dependency you can [download this add-on](https://github.com/flattr/fx-flattr-addon) itself and run it and build it the way you like. Check the Add-on SDK [Getting Started tutorial](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/getting-started-with-cfx.html) to find out how that is done.
 
 ## Learn more
 
 * [Flattr.com](https://flattr.com/)
 
 ## Changelog
+
+### 1.1.1
+
+* Updating addon to work with SDK 1.13b1
 
 ### 1.1.0
 

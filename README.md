@@ -19,6 +19,10 @@ Once you have added the dependency you can [download this add-on](https://github
 
 ## Changelog
 
+### 1.1.2
+
+* Updating addon to work with SDK 1.14
+
 ### 1.1.1
 
 * Updating addon to work with SDK 1.13b1

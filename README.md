@@ -19,6 +19,10 @@ Once you have added the dependency you can [download this add-on](https://github
 
 ## Changelog
 
+### 1.1.3
+
+* Updated addon to work with Firefox 29, mostly achieved by including new versions of dependencies (Urlbar Button 0.6.0 and ShowForPage 0.2.2)
+
 ### 1.1.2
 
 * Updating addon to work with SDK 1.14
